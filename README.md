@@ -14,7 +14,7 @@
 
 🚀 **Try Lumos AI Online**
 
-**https://lumos-ai-chatbot.streamlit.app/**
+**https://lumos-ai-bot.streamlit.app/**
 
 ---
 
