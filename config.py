@@ -5,10 +5,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# First try Streamlit Secrets, then fall back to .env
-if "GOOGLE_API_KEY" in st.secrets:
+# Try Streamlit Secrets first, then .env
+try:
     GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
-else:
+except Exception:
     GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 if not GOOGLE_API_KEY:
