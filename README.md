@@ -10,6 +10,20 @@
 
 ---
 
+# 🌐 Live Demo
+
+🚀 **Try Lumos AI Online**
+
+**https://lumos-ai-chatbot.streamlit.app/**
+
+---
+
+# 📂 GitHub Repository
+
+**https://github.com/nakul2707/Lumos_Chatbot**
+
+---
+
 ## 📖 Overview
 
 Lumos AI is a **Retrieval-Augmented Generation (RAG)** based PDF assistant that enables users to upload one or multiple PDF documents and interact with them using natural language.
