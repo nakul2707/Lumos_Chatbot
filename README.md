@@ -20,7 +20,7 @@
 
 # 📂 GitHub Repository
 
-**https://github.com/nakul2707/Lumos_Chatbot**
+**https://github.com/nakul2707/Lumos_AI.git**
 
 ---
 
